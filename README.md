@@ -1,1 +1,1 @@
-# aula-7-vercel-pizza
+# aula-6-sexta-pizzaria
